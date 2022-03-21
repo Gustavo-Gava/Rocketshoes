@@ -64,7 +64,7 @@ Essa experiência foi muito interessante pois acredito que seja muito comum no m
   $ yarn
   
   # Rode a API e o projeto
-  $ yarn install
+  $ yarn start
   $ yarn server
 
   # Estará disponível em: http://localhost:3000
